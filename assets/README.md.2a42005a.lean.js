@@ -1,0 +1,1 @@
+import{o as n,c as a,a as e}from"./app.5d9c8aee.js";const s='{"title":"vben-admin-docs","description":"","frontmatter":{},"headers":[{"level":2,"title":"如何本地开发","slug":"如何本地开发"}],"relativePath":"README.md","lastUpdated":1623726898533}',t={},c=e('',3);t.render=function(e,s,t,o,d,i){return n(),a("div",null,[c])};export default t;export{s as __pageData};
